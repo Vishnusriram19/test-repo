@@ -10,6 +10,7 @@ def find_average(numbers):
     return avg
 
 
+#hi
 def remove_duplicates(items):
     result = []
     
